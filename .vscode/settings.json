@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.osi": "sdbl",
+        "*.sdbl": "sdbl",
+        "Запрос_к_*.txt": "sdbl"
+    }
+}

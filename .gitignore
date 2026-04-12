@@ -9,3 +9,12 @@
 
 # Python bytecode caches
 **/__pycache__/
+
+# Microsoft Word documents
+*.docx
+*.doc
+*.docm
+
+# Внешние обработки и отчёты в src/ (только эти каталоги в корне проекта)
+/src/epf/
+/src/erf/
