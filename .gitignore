@@ -1,0 +1,11 @@
+# Folders named archive.ignore (any depth)
+**/archive.ignore/
+
+# All Excel workbooks (.xlsx)
+*.xlsx
+
+# Temporary Excel lock files for .xls (workbook open)
+~$*.xls
+
+# Python bytecode caches
+**/__pycache__/
